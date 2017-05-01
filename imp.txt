@@ -1,7 +1,0 @@
-install netbeans :
-https://netbeans.org/community/releases/82/install.html#uninstall_sollinux
-cmd : ./<installer-file-name> 
-
-uninstall netbeans:
-https://askubuntu.com/questions/872471/how-to-uninstall-netbeans-if-uninstall-sh-missing
-cmd: sudo apt remove netbeans
